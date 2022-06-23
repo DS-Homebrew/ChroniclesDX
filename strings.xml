@@ -2348,7 +2348,7 @@ Sonic, Tails, and Amy met up with Rouge, who was waiting to take them to the GUN
   <string id="11123">We&apos;re in big trouble, Sonic. I don&apos;t know if you heard, but Knuckles has gone missing. And so have the Chaos Emeralds!</string>
   <string id="11127">A group of criminals called the Marauders took him. Please, Sonic! We need your help!</string>
   <string id="11128">I knew you would! I knew it!</string>
-  <string id="11129">Amy is on her way to meet you. Once you find her~no, once she finds you, meet me at my workshop near Central City.</string>
+  <string id="11129">Amy is on her way to meet you. Once you find her&#126;no, once she finds you, meet me at my workshop near Central City.</string>
   <string id="11130">Great! Thanks, Sonic. With you on the team, I know we&apos;ll save Knuckles!</string>
   <string id="11134">Well, you know how she is. She wanted to meet you halfway and make sure you got here safely.</string>
   <string id="11140">Knuckles was fighting against the Marauders when he disappeared. We&apos;re not really sure who they are, but they&apos;re big trouble!</string>
@@ -6720,10 +6720,10 @@ Immune to all negative effects</string>
   <string id="20975">Anyone else?</string>
   <string id="20980">HP</string>
   <string id="20981">Xp</string>
-  <string id="20983">Good times? Like Eggman turning our animal friends into robots and pitting them against us?</string>
-  <string id="20984">Yep! Good times!</string>
-  <string id="20985">Well, I wouldn&apos;t take too much time sightseeing, Sonic. We have to save Knuckles!</string>
-  <string id="20986">Don&apos;t worry, Tails. What could go wrong in Green Hill Zone?</string>
+  <string id="20983">Good times? This is my first time here, Sonic. Also, it doesn't seem as lively as the way you described it.</string>
+  <string id="20984">Oh, right. Maybe one day, you'll see how it used to look like. It's always nostalgic for me here, such a&#126;</string>
+  <string id="20985">Your memories can wait, Sonic. Knuckles needs saving now!</string>
+  <string id="20986">Don&apos;t worry, Tails. What could go wrong in Green Hill?</string>
   <string id="20990">Be careful out there, Sonic!</string>
   <string id="20991">Sonic! Look out! That armadillo looks angry!</string>
   <string id="20992">I&apos;m on it!</string>
