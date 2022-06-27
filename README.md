@@ -1,5 +1,5 @@
 # ChroniclesDX
-Changes made to Sonic Chronicles: The Dark Brotherhood, with RomFS being injected programatically.
+Changes made to Sonic Chronicles: The Dark Brotherhood.
 
 The list below is not the only things we're changing; we might change other things too. We just want to have a timeline of things.
 
