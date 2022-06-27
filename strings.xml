@@ -2402,8 +2402,8 @@ Sonic, Tails, and Amy met up with Rouge, who was waiting to take them to the GUN
   <string id="11398">I mean, he knows. Did I tell you he always sends me flowers? They&apos;re so beautiful.</string>
   <string id="11399">He has a lot of money, you know. And he&apos;s the most polite man in the world. </string>
   <string id="11400">He treats me just like a princess!</string>
-  <string id="11402">Central City. We made it! Even with Marauders trying to stop us!</string>
-  <string id="11403">That Marauder wasn&apos;t so tough.</string>
+  <string id="11402">Central City! We&apos;re finally here, even with the minor delay of that Marauder attack.</string>
+  <string id="11403"> Heh, the city couldn&apos;t stay a break without looking like its wrecked? What, did the Eclipse Cannon blast it?</string>
   <string id="11404">We did it!</string>
   <string id="11405">We make a great team, Sonic! Don&apos;t you think so?</string>
   <string id="11406">Y-yeah, sure. I just thought....</string>
@@ -5482,7 +5482,7 @@ central target with concussive effects on adjacent targets.</string>
   <string id="17794">....</string>
   <string id="17795">....</string>
   <string id="17796">....</string>
-  <string id="17797">Er, sure. Just a few minutes, though. We have stuff to do!</string>
+  <string id="17797">Er, just a few minutes, though. Consider what's obligatory in the genre of SAVING THE WORLD!</string>
   <string id="17798">I&apos;ll tell you when we&apos;re alone.</string>
   <string id="17799">If there&apos;s anything we need to finish up before we go, we&apos;d better do it now!</string>
   <string id="17800">All right!</string>
@@ -7105,11 +7105,11 @@ Immune to all negative effects</string>
   <string id="21945">Gizoids? Like, more than one?</string>
   <string id="21946">Gizoids are very powerful, team. They copy the abilities of their opponents. They can use our skills against us!</string>
   <string id="21949">Where did the Nocturnus Clan get a gizoid?</string>
-  <string id="22070">But they clearly know you&apos;re here, Sonic, and they&apos;re trying to stop you!</string>
-  <string id="22071">After what they did to Knuckles... I don&apos;t want you to get hurt!</string>
-  <string id="22072">Don&apos;t worry about me, Amy. I&apos;ll be just fine.</string>
-  <string id="22073">Fine. See if I ever worry about you again!</string>
-  <string id="22074">Let&apos;s just go find Tails. Is his workshop still to the east of here?</string>
+  <string id="22070">I dunno where you got that idea from. I&apos;m more worried about the Marauder we fought before.</string>
+  <string id="22071">I couldn&apos;t imagine things without you around. What if they kidnapped you like they did to Knuckles?</string>
+  <string id="22072">You&apos;re forcing me to laugh, Amy. Don&apos;t worry; I&apos;ll be fine.</string>
+  <string id="22073">You sure? They seemed tough, and who knows where they&apos;ll strike next.</string>
+  <string id="22074">Let&apos;s focus on our task at hand. Tails&apos; workshop is still to the east, correct?</string>
   <string id="22075">Yep! Let&apos;s go!</string>
   <string id="22083">This looks like the place, team.</string>
   <string id="22084">This certainly looks like somewhere Eggman would hang out.</string>
