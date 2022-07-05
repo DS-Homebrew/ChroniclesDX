@@ -15,6 +15,8 @@ The list below is not the only things we're changing; we might change other thin
   - [X] Sonic Generations, Tails not seeing Green Hill.
   - [X] Sonic Forces - Sonic gets kidnapped
   - [X] Sonic Adventure 2 - Shadow saved everyone from the FinalHazard, not Eggman
+  - [X] World Collide/Unite (Archie) - Doctor Willy as a potential Doctor figure involved with Sonic.
+  - [X] Fanbase - If SEGA can say stuff about actions having consequences, so can I.
 - [ ] Make the game heavily based on Unleashed, with naming and ending flowing straight into Unleashed.
   - Unleashed is the last game on the human world; Colors and Generations are independent and everything following takes place on Sonic's world.
 
