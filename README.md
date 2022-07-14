@@ -30,7 +30,7 @@ For custom dialogue, we need to have the characters say things that would be in 
   1. Reformed - Changed ways, to be on Sonic's team (up until the betrayal in the final moments)
   2. Kind - This is just an act, but we all know that he will turn. Still, he's giving his best impression of being different for team sonic. I think it may be for the best if we still let some of his old ego slip in. Throughout the game, I want him to be the Doctor Eggman that outsmarted Tails and kicked Sonic out of the ARK in SA2, and that would eventually mess with Starline in the IDW.
   3. Arrogant - This is classic Eggman, always putting himself above everyone else. However, I think they go too overboard with the species difference. PLEASE STOP CALLING SONIC A FURRY
-- Miles "Tails" Prower: I want no qualities of Forces or Lost World in our Tails depiction. How that depiction of Tails even came out to be is beyond me, especially after his growth in prior material. This should be the same Tails that saved Station Square in SA1 when Sonic wasn't there. The word choice should match the IDW dialogue, when he outsmarted the Zeti to steal their Chaos Emerald, when he made invensions to stop the Zeti and Mimic. IDW 50 has an amazing portrayal of Tails' inteligence, but the dialogue wouldn't work there, where Kit first appeared to be normal like tails and just thought that his understanding of the situation is broken.
+- Miles "Tails" Prower: I want no qualities of Forces or Lost World in our Tails depiction. How that depiction of Tails even came out to be is beyond me, especially after his growth in prior material. This should be the same Tails that saved Station Square in SA1 when Sonic wasn't there. The word choice should match the IDW dialogue, when he outsmarted the Zeti to steal their Chaos Emerald & the interactions with Zavok in the second-to-last issue in the invasion arc. IDW 50 has an amazing portrayal of Tails' inteligence, but the dialogue wouldn't work there, where Kit first appeared to be normal like tails and just thought that his understanding of the situation is broken.
 - Sonic the Hedgehog: With all the different dialogue options, the player should be given a choice on how they want to interact with the others. However, I don't want Sonic to start sounding like Shakespear in every single line, and he should still carry some spirit even in his choices. My personal depiction of how he interacts with giving villains chances should match IDW issue 5, 6, 12, 19, 23, 25, 26, 31, 44 & 50. The way he should be portrayed overall should be like the quote in IDW issue 2. The best theme I'd give him is "Sonic Appears" from Sonic 06, and I want his statements to match the carefree nature portrayed there. The best Sonic & Tails relationship is shown in Sonic Mania Adventures Episode 2, IDW Issue 1 & IDW Issue 13.
 - Big the Cat: This is not with him directly; I love how happy go-lucky he is. But I want others to be nicer to him; in general, people have a lot of respect for him, as shown in SA1 and IDW's 2020 annual. Even in the Post-Reboot archie, people were mildly frustrated but they never disrespected him. Only one that should show insignificance is Shadow, and even though I want to add one line directed at Big, he should never directly insult big.
 - Johnson: Our side character in Blue Ridge Zone needs to have his entire plot point rewritten. "Did Johnson forget to turn off the breakers *again*" implying this happened before. How the hell is he still on the team? How in the world is he only getting a "talking too"? Why is being late the only thing he would be fired for? Why would you not bribe your boss for being fired for being late but you would for being fired for destroying literally everything?
@@ -40,12 +40,24 @@ For custom dialogue, we need to have the characters say things that would be in 
 
 ## Music Changes
 
-- [ ] Nocturne
-- [ ] Central City
+- [ ] Central City (Dusty Diamond from Sonic 3D Blast)
+  - As a place which holds Tails' workshop & GUN command-sites, this is in for quite a reck. Although the events in Shadow the Hedghehog did not canonically occur, I want to alude to it in the audio by remixing [the stage theme from ShadowTH](https://www.youtube.com/watch?v=v9G0BcwUf6o) using instrumentation from [Sand Ruins](https://www.youtube.com/watch?v=ZQEUNrR0F2c) (Sonic Riders).
+- [ ] Tails' Workshop
+  - Since Eggman had some involvement in destorying the area, I think it'd be nice to have a remix of Tails' Laboratory [combined](https://www.youtube.com/watch?v=p3m1y13hmqg) with Chemical Plant.
+- [ ] Chapter 6 - Outdoors
+  - With Angel Island fallen and there being a concept of a launch in this area, I think it would be nice to have a more industrial remix of [Launch Base Zone (Prototype)](https://www.youtube.com/watch?v=h8zj8tbKvy0). I think it should be suttle, though, so maybe we could use a different theme for the main part.
+- [ ] Chapter 6 - Indoors
+  - Right after we enter the portal, Eggman is shown to be plotting something. At this point, we (the viewers) already saw through the act through the dialogue and the general outcome of the typical "I've turned good" act, but I'd rather it be expressed through song instead. The script edits will fix up the "obvious-ness" on its end, but for the song, we could change the overall structure to be a remix of Launch Base Zone and subtly hide the eggman theme used in Sonic Unleashed.
+- [ ] Nocturne (Big Arms from Sonic 3)
+  - There is no corrolation between these two themes other than they're at the end of their respective game. Honestly, I would do a reference to Tikal's theme, considering the fact that while she and Ix are both Echidna's from an ancient time, they're complete opposites. Just show how corrupted Ix is through Tikal.
+
+## Art-Style Goals
+
+**Editing any .axi file/cutscene is impossible**
+
+Editing chapter title cards and in-dialogue portraits for every character is key, to move away from the Sonic X art style and into the Pre-Reboot archie coloring. This will get updated when we figure things out.
+
+- Sonic X
 
 ## To-do
-- Redo music (possibly have streamed audio)
-- Fix errors in script (e.g. Team Amy to Team Rose)
-- Change script to remove cliffhanger ending (instead, connect to Unleashed)
 - Make balances to gameplay (buff/nerf characters as needed)
-- Change artstyle (CG but also possibly models)
