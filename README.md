@@ -38,18 +38,32 @@ For custom dialogue, we need to have the characters say things that would be in 
 - Knuckles: I think this character was handled great, actually; his stubbornness shows through and through, and out of everyone in the game, he gets the most progression. Of course, there are a few dumb lines here, but they're always in character.
 - Cream: So, the real canon areas Cream was involved were Advanced 2, Battle, Advanced 3, Rush, Archie & IDW. I never payed too much attention to Cream in Chronicles so I don't know what could be different, but it seems Archie and IDW has everyone portraying her bravery the same, and she only stepped out of the shell in IDW (when her mom was turned into a Zombot). She did stuff in Sonic X Season 2, but I feel the battle-adaptation matched pre-reboot, aka she was the discoverer of an innocent thing who then turned out to try and take over everything. I cannot remember Season 3 too well, but I might just look at a script. Anywho, due to all these individual circumstances, I'm unsure which depiction of Cream I like, solely because it's the same problem with Amy.
 
-## Music Changes
+## Music
 
-- [ ] Central City (Dusty Diamond from Sonic 3D Blast)
-  - As a place which holds Tails' workshop & GUN command-sites, this is in for quite a reck. Although the events in Shadow the Hedghehog did not canonically occur, I want to alude to it in the audio by remixing [the stage theme from ShadowTH](https://www.youtube.com/watch?v=v9G0BcwUf6o) using instrumentation from [Sand Ruins](https://www.youtube.com/watch?v=ZQEUNrR0F2c) (Sonic Riders).
+Obviously we will replace the instrumentations where we can for the other songs not listed here, but I think these ones need new arrangements altogether.
+
+- [ ] Central City (Diamond Dust Zone from Sonic 3D Blast)
+  - As a place which holds Tails' workshop & GUN command-sites, this is in for quite a wreck. Although the events in Shadow the Hedghehog did not canonically occur, I want to alude to it in the audio by remixing [the stage theme from ShadowTH](https://www.youtube.com/watch?v=v9G0BcwUf6o) using instrumentation from [Sand Ruins](https://www.youtube.com/watch?v=ZQEUNrR0F2c) (Sonic Riders).
 - [ ] Tails' Workshop
-  - Since Eggman had some involvement in destorying the area, I think it'd be nice to have a remix of Tails' Laboratory [combined](https://www.youtube.com/watch?v=p3m1y13hmqg) with Chemical Plant.
-- [ ] Chapter 6 - Outdoors
+  - Since Eggman had some involvement in destorying the area, I think it'd be nice to have a remix of Tails' Laboratory from Sonic Battle [combined](https://www.youtube.com/watch?v=p3m1y13hmqg) with Chemical Plant.
+- [ ] Metropolis Ground Zero (Tidal Tempest Past from Sonic CD)
   - With Angel Island fallen and there being a concept of a launch in this area, I think it would be nice to have a more industrial remix of [Launch Base Zone (Prototype)](https://www.youtube.com/watch?v=h8zj8tbKvy0). I think it should be suttle, though, so maybe we could use a different theme for the main part.
 - [ ] Chapter 6 - Indoors
   - Right after we enter the portal, Eggman is shown to be plotting something. At this point, we (the viewers) already saw through the act through the dialogue and the general outcome of the typical "I've turned good" act, but I'd rather it be expressed through song instead. The script edits will fix up the "obvious-ness" on its end, but for the song, we could change the overall structure to be a remix of Launch Base Zone and subtly hide the eggman theme used in Sonic Unleashed.
 - [ ] Nocturne (Big Arms from Sonic 3)
   - There is no corrolation between these two themes other than they're at the end of their respective game. Honestly, I would do a reference to Tikal's theme, considering the fact that while she and Ix are both Echidna's from an ancient time, they're complete opposites. Just show how corrupted Ix is through Tikal.
+
+Here are the songs I think that although there's another arrangement more suited for them, it would be fine if the arrangement remained the same (provided instruments got touched up on):
+
+- [ ] Angel Island Zone (Collision Chaos, Bad Future [JP] - Sonic CD)
+  - The mysterious atmosphere fits Sonic Chronicles' version of Angel Island (mysterious, uncertainty, ancient), but it would be nicer if we got a 'Bad Future' remix from Angel Island Zone (Sonic 3) instead, such as [these](https://www.youtube.com/watch?v=4TnnXNI-_uQ) [examples](https://youtu.be/66cwXfmPjSI) on YouTube.
+- [ ] Green Hill Zone
+  - Currently, Sonic Chronicles uses its own composition. It fits enough for a "Tutorial" type level, but I think a Tutorial level in a Sonic game should be considered an easy stroll rather than what he have presently. Why not have it be a remix of Green Hill Zone in the style of the Past Tracks from Sonic CD?
+
+Here are some songs I think are perfect for the context they're in, but just need an instrumentation overhaul:
+
+- [ ] Mystic Ruins Zone (Final Fight from Sonic 3D Blast)
+  - This is the area where you first see Shadow & where you have gas that our main characters cannot go through. I think the mysteriousness of the level is what makes it perfect to keep, provided its instruments get rearranged
 
 ## Art-Style Goals
 
